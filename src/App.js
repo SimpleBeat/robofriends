@@ -22,7 +22,7 @@ class App extends React.Component {
         )
         return (
             <div className="tc">
-                <h1 className="ma3 pa2 color--blue">Robofriends</h1>
+                <h1 className="ma3 pa2 dark-blue f1">Robofriends</h1>
                 <SearchBox searchChange={this.onSearchChange} />
                 <CardList robots={filteredRobots} />
             </div>
