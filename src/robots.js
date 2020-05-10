@@ -1,9 +1,9 @@
 export const robots = [
     {
         id: 1,
-        name: 'Anna DePruit',
-        username: 'annadepruit',
-        email: 'anndp@magicland.com'
+        name: 'Helen DePruit',
+        username: 'helendepruit',
+        email: 'helendp@magicland.com'
     },
     {
         id: 2,
